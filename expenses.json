@@ -1,14 +1,20 @@
 [
     {
         "id": 1,
-        "date": "2025-07-28",
-        "description": "Lunch",
-        "amount": 20.0
+        "date": "2025-07-31",
+        "description": "yum",
+        "amount": 500.0
     },
     {
         "id": 2,
-        "date": "2025-07-28",
-        "description": "Work",
-        "amount": 200.0
+        "date": "2025-07-31",
+        "description": "rope",
+        "amount": 5700.0
+    },
+    {
+        "id": 3,
+        "date": "2025-07-31",
+        "description": "nice",
+        "amount": 5700.0
     }
 ]
